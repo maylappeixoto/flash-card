@@ -1,27 +1,23 @@
 criaCartao(
-    'Beleza',
-    ' Qual o primeiro passo para uma pintura de unha perfeita?',
-    'Limpar e preparar as unhas.
-'
+    'Corinthians',
+    'Fundação',
+    '01 de Setembro de 1910'
 )
 
 criaCartao(
-    'Igreja',
-    ' Além de ser um local de culto, qual outra função social uma igreja pode ter para a comunidade?',
-    'Pode oferecer apoio social, como ações de caridade ou programas educacionais.
-
-'
+    'Geografia',
+    'Qual a capital da França?',
+    'A capital da França é Paris'
 )
 
 criaCartao(
-    'Livros',
-    'Qual o elemento mais comum em livros de romance??',
-    'O desenvolvimento de um relacionamento amoroso.
-'
+    'Programação',
+    'O que é uma função?',
+    'Uma função é um bloco de código que executa alguma tarefa'
 )
 
 criaCartao(
-    'Comida',
-    'Além do sabor "umami", quais são os outros quatro gostos básicos que o paladar humano pode identificar?',
-    'Doce, salgado, amargo e azedo.'
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
 )
