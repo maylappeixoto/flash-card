@@ -1,23 +1,23 @@
 criaCartao(
-    'Corinthians',
-    'Fundação',
-    '01 de Setembro de 1910'
+    'Nail Designer',
+    'Para que serve o primer na preparação das unhas?',
+    'Para aumentar a fixação do gel ou acrílico'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Bíblia',
+    ' Quem construiu a arca para sobreviver ao dilúvio?',
+    ' Noé'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Música Sertaneja',
+    ' Qual dupla sertaneja canta "A Nossa Praia"?',
+    'Matheus & Kauan'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Comida',
+    ' Qual é o principal ingrediente da sobremesa banoffe',
+    'Banana'
 )
